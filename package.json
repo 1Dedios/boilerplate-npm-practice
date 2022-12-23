@@ -1,5 +1,7 @@
 {
 	"author": "Eddie-P",
+	"description": "Cool npm practice",
+	"keywords": ["practice", "backend practice", "freeCodeCamp"],
 	"dependencies": {
 		"express": "^4.18.2"
 	}
