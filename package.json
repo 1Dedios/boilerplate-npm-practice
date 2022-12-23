@@ -1,4 +1,6 @@
 {
-	"author": "Eddie-P"
+	"author": "Eddie-P",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
 }
-
