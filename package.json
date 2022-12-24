@@ -5,7 +5,6 @@
 	"license": "freewill🤣",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.18.2",
-		"@freecodecamp/example": "1.2.13"
+		"express": "^4.18.2"
 	}
 }
