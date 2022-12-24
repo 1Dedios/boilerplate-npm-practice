@@ -1,8 +1,11 @@
 {
 	"author": "Eddie-P",
 	"description": "Cool npm practice",
-	"keywords": ["practice", "backend practice", "freeCodeCamp"],
+	"keywords": ["practice", "backend practice", "freecodecamp"],
+	"license": "freewill🤣",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.18.2"
+		"express": "^4.18.2",
+		"@freecodecamp/example": "1.2.13"
 	}
 }
